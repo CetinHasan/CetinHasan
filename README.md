@@ -34,16 +34,11 @@
 
 </div>
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Yolculuğum
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CetinHasan&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="Hasan'ın GitHub istatistikleri" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CetinHasan&theme=tokyonight&hide_border=true&locale=tr" alt="Hasan'ın katkı serisi" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CetinHasan&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="En çok kullanılan diller" />
-</div>
+GitHub'ın profil sayfasındaki yerleşik katkı grafiği, güncel çalışma ritmimi
+gösterir. Açık kaynak projeler ve yeni fikirler üzerinde üretmeye devam
+ediyorum.
 
 ## 🎯 Odak Noktam
 
