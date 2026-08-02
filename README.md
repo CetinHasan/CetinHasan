@@ -4,8 +4,8 @@
 
 ### Backend & AI odaklı geliştirici · .NET · SwiftUI · Cloud · Ürün geliştirme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KULLANICI-ADIN)
-[![Email](https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MAIL_ADRESIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/KULLANICI-ADIN](https://www.linkedin.com/in/hasan-%C3%A7etin-b7b140296/))
+[![Email](https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cetinhsn66@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=CetinHasan&style=for-the-badge&color=0e75b6)](https://github.com/CetinHasan)
 
 </div>
